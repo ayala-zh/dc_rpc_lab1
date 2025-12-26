@@ -70,7 +70,7 @@ class RPCClient:
 
 # Test the client
 if __name__ == "__main__":
-    SERVER_IP = "172.31.19.12"  # Your server's private IP
+    SERVER_IP = "172.31.19.11" 
     
     print("🚀 Starting RPC Client Tests")
     print(f"🔗 Connecting to server at {SERVER_IP}:5000")
